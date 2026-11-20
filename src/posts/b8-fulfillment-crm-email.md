@@ -90,4 +90,23 @@ Buổi cuối nói về phần "hậu cần" của store: giao hàng, chăm sóc
 - Cài Freshdesk (hoặc tương tự) khi đã có vài chục ticket mỗi tuần.
 - Dựng sign-up form và welcome flow trên Klaviyo, rồi lên lịch một campaign theo mùa.
 
+## Thuật ngữ trong buổi
+
+| Thuật ngữ | Nghĩa ngắn gọn |
+|---|---|
+| Fulfillment | Toàn bộ khâu xử lý đơn: mua hàng, đóng gói, giao, cập nhật tracking. |
+| Tracking | Mã theo dõi vận đơn mình gửi cho khách. |
+| 3PL | Kho bên thứ ba lưu hàng, đóng gói và giao đơn thay mình. |
+| MOQ | Số lượng tối thiểu phải mua với một nhà cung cấp. |
+| Agent (nhà cung cấp) | Bên trung gian làm việc với nhà máy, an toàn hơn tự mua rải rác. |
+| Bulk fulfill | Upload hàng loạt mã đơn và tracking bằng một file Excel. |
+| CRM | Công cụ quản lý và chăm sóc khách hàng (bài nhắc Freshdesk). |
+| Ticket | Mỗi yêu cầu hoặc câu hỏi của khách, được theo dõi trạng thái. |
+| Canned response | Mẫu trả lời soạn sẵn, chỉ cần thay thông tin đơn. |
+| List / Segment | List là tất cả email thu được; segment là nhóm con để gửi đúng đối tượng. |
+| Flow | Chuỗi email tự động theo điều kiện (welcome, bỏ giỏ hàng...). |
+| Campaign | Email gửi tay cho cả list hoặc một segment. |
+| Sign-up form | Popup xin email đổi lấy ưu đãi. |
+| Upsell / Cross-sell | Bán thêm món đắt hơn / món bổ trợ trong giỏ hàng. |
+
 *Ghi chú học tập cá nhân.*

@@ -79,4 +79,20 @@ Buổi 6 có 4 video, chia hai nửa: một chiến dịch Google đơn giản �
 1. Vì sao phải dự báo doanh số trước khi nhập hàng?
 2. Giảng viên nói nên làm gì sớm hơn?
 
+## Thuật ngữ trong buổi
+
+| Thuật ngữ | Nghĩa ngắn gọn |
+|---|---|
+| Retargeting | Hiện lại quảng cáo cho người đã vào store nhưng chưa mua. |
+| Google Brand Search | Chiến dịch Google Search với từ khoá là tên store của chính mình. |
+| Sitelink | Các đường link phụ dưới quảng cáo (About Us, chính sách...), giúp chiếm thêm diện tích. |
+| Độ liên quan | Mức khớp giữa từ khoá và nội dung trang; ảnh hưởng thứ hạng quảng cáo. |
+| Đối sánh từ khoá | Cách Google khớp từ khoá: rộng chỉnh sửa, cụm từ, chính xác. |
+| Conversion / pixel | Mã theo dõi đơn hàng và giá trị đơn để tính hiệu quả quảng cáo. |
+| UGC | Nội dung do người dùng hoặc creator tạo (video unboxing, review). |
+| White label | In logo của mình lên sản phẩm của nhà cung cấp để bán như brand riêng. |
+| Returning customer | Khách mua lại; brand thường cao hơn dropship. |
+| Exit | Khả năng bán lại doanh nghiệp. |
+| Dự báo doanh số | Ước lượng số hàng bán ra để nhập hàng trước. |
+
 *Ghi chú học tập cá nhân. Số liệu ví dụ lấy từ lời giảng và chưa kiểm chứng độc lập.*

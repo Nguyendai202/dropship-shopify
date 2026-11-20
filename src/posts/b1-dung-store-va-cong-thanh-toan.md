@@ -96,4 +96,21 @@ Buổi 1 có 5 video, mục tiêu là dựng xong một store chạy được v�
 **Tự kiểm tra**
 1. Khi nào nên dùng nền tảng thay thế thay vì Shopify?
 
+## Thuật ngữ trong buổi
+
+| Thuật ngữ | Nghĩa ngắn gọn |
+|---|---|
+| Dropshipping | Bán hàng không giữ kho: khách đặt, mình mua từ nhà cung cấp rồi họ gửi cho khách. |
+| Theme | Giao diện của store Shopify (bài dùng Debutify bản miễn phí). |
+| Policy | Các trang chính sách: hoàn tiền, quyền riêng tư, điều khoản dịch vụ, vận chuyển. |
+| Abandoned checkout email | Email tự động nhắc khách đã điền thông tin nhưng chưa thanh toán. |
+| Transaction fee | Phí Shopify thu trên mỗi đơn (2% ở gói Basic, thấp hơn ở gói cao). |
+| Shipping rate | Mức phí vận chuyển cài theo khối lượng, mình thu từ khách. |
+| Payment gateway (cổng thanh toán) | Dịch vụ nhận tiền khách trả rồi chuyển về tài khoản của mình. |
+| Payout | Thời gian từ lúc khách trả đến lúc tiền về tài khoản mình. |
+| Hold | Cổng giữ lại một phần hoặc toàn bộ tiền trong một thời gian. |
+| Chargeback | Khách đòi lại tiền qua ngân hàng; thường kèm phí 15–20 đô. |
+| Affirm | Cổng cho khách trả góp tối đa 4 lần. |
+| Công ty UK / US | Pháp nhân nước ngoài cần có để đăng ký Stripe, Shopify Payments, Affirm. |
+
 *Ghi chú học tập cá nhân.*
