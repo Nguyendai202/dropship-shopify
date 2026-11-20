@@ -3,7 +3,7 @@ layout: layout.njk
 title: Ghi chú Dropshipping Shopify
 ---
 
-Nhật ký học khoá "Làm Chủ Dropshipping Shopify" (8 buổi). Mỗi video có phần ý chính, ví dụ và câu hỏi tự kiểm tra để ôn lại nhanh mà không cần xem lại video. Ghi chú được dùng làm nền cho việc xây thương hiệu và content của shop.
+Bắt đầu từ bài *Tổng quan* để xem bản đồ 8 buổi. Nhật ký học khoá "Làm Chủ Dropshipping Shopify" (8 buổi). Mỗi video có phần ý chính, ví dụ và câu hỏi tự kiểm tra để ôn lại nhanh mà không cần xem lại video. Ghi chú được dùng làm nền cho việc xây thương hiệu và content của shop.
 
 {% assign groups = collections.posts | groupByModule %}
 {% for g in groups %}
