@@ -1,8 +1,8 @@
 ---
 title: "Buổi 6 · Google Brand Search và hành trình xây brand"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 6 · Google Brand và xây thương hiệu"
 order: 601
+summary: "Google Brand Search, so sánh dropship với brand, UGC và white label."
 ---
 
 Buổi 6 có 4 video, chia hai nửa: một chiến dịch Google đơn giản để giữ lại khách đã biết store, và con đường chuyển từ dropship sang brand kèm case study thật của giảng viên. Slide dùng là *Slide gg brand* và *Slide ecom brand*.

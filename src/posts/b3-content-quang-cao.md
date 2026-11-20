@@ -1,8 +1,8 @@
 ---
 title: "Buổi 3 · Làm content quảng cáo: chữ, ảnh, video và free traffic"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 3 · Content quảng cáo"
 order: 301
+summary: "Ba công thức viết quảng cáo, ảnh và video, lưu lượng miễn phí, ngân sách thử."
 ---
 
 Buổi 3 hướng dẫn làm bộ content để test sản phẩm: text quảng cáo, ảnh, video, cộng thêm một bài về free traffic. Buổi này không có slide, và trong bộ video có một bài (Bài 4) bị thiếu nên bài viết chỉ dựa trên 5 video còn lại.

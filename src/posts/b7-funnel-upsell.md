@@ -1,8 +1,8 @@
 ---
 title: "Buổi 7 · Funnel: order bump, upsell và tăng giá trị mỗi khách"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 7 · Funnel bán hàng"
 order: 701
+summary: "Order bump, upsell và A/B test để tăng giá trị mỗi đơn."
 ---
 
 Buổi 7 nói về funnel, "vũ khí scale" của giảng viên: thêm nhiều bước bán trong quá trình mua để kiếm nhiều tiền hơn từ mỗi khách. Slide dùng là *AES* của buổi 7. Trong bộ video, Bài 4 của buổi này là file rỗng (0 byte), nên bài viết chỉ dựa trên 3 video đầu.

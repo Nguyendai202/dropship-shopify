@@ -3,16 +3,32 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }} | Ghi chú Dropshipping Shopify</title>
+  <title>{% if module %}{{ title }} · {% endif %}Sổ tay Dropship</title>
+  <meta name="description" content="{{ summary or 'Ghi chú học dropshipping Shopify: tìm sản phẩm, chạy quảng cáo, xây brand và vận hành, viết lại ngắn gọn để dễ ôn.' }}">
   <link rel="stylesheet" href="{{ '/style.css' | url }}">
 </head>
 <body>
-  <header><a href="{{ '/' | url }}">Ghi chú Dropshipping Shopify</a></header>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | url }}"><span class="logo">S</span>Sổ tay Dropship</a>
+    <nav><a href="{{ '/posts/b0-tong-quan-khoa-hoc/' | url }}">Tổng quan</a><a href="{{ '/posts/b9-tong-ket-thuat-ngu/' | url }}">Thuật ngữ</a></nav>
+  </header>
   <main>
-    <h1>{{ title }}</h1>
-    {% if course %}<p class="meta">{{ course }} · {{ module }}</p>{% endif %}
+    {% if module %}
+    <article>
+      <p class="eyebrow">{{ module | tag }} · {{ content | readTime }} phút đọc</p>
+      <h1>{{ title }}</h1>
+      {{ content | safe }}
+    </article>
+    {% set prev = collections.posts | getPreviousCollectionItem %}
+    {% set next = collections.posts | getNextCollectionItem %}
+    <nav class="pager">
+      {% if prev %}<a class="prev" href="{{ prev.url | url }}"><small>← Bài trước</small>{{ prev.data.title }}</a>{% else %}<span></span>{% endif %}
+      {% if next %}<a class="next" href="{{ next.url | url }}"><small>Bài sau →</small>{{ next.data.title }}</a>{% endif %}
+    </nav>
+    {% else %}
     {{ content | safe }}
+    {% endif %}
   </main>
-  <footer>Ghi chú học tập cá nhân.</footer>
+  <footer>Ghi chú học tập cá nhân · Sổ tay Dropship</footer>
 </body>
 </html>

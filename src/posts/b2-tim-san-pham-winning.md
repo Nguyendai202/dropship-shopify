@@ -1,8 +1,8 @@
 ---
 title: "Buổi 2 · Tìm sản phẩm thắng (winning product)"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 2 · Nghiên cứu sản phẩm"
 order: 201
+summary: "Tiêu chí chọn sản phẩm thắng và cách kiểm tra bằng Google Trends, Pixel Helper."
 ---
 
 Buổi 2 nói về kỹ năng quan trọng nhất của cả quy trình: nghiên cứu sản phẩm. Slide chỉ có vài trang, nên nội dung chính lấy từ lời giảng của 5 video.

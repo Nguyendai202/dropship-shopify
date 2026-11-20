@@ -1,13 +1,13 @@
 ---
-title: "Tổng quan khoá học và lộ trình 8 buổi"
-course: "Khoá Làm Chủ Dropshipping Shopify"
+title: "Tổng quan và lộ trình 8 buổi"
 module: "Mở đầu · Tổng quan"
 order: 1
+summary: "Bản đồ 8 buổi, sợi chỉ xuyên suốt và những chỗ cần lưu ý khi đọc."
 ---
 
-Đây là bản đồ để đọc các ghi chú còn lại. Khoá học gồm 8 buổi, 37 video, đi từ dựng store đến chạy quảng cáo, scale, xây brand và vận hành. Ghi chú được viết lại từ lời giảng và slide, không chép nguyên văn.
+Đây là bản đồ để đọc các ghi chú còn lại. Loạt bài gồm 8 buổi, 37 video, đi từ dựng store đến chạy quảng cáo, scale, xây brand và vận hành. Ghi chú được viết lại từ lời giảng và slide, không chép nguyên văn.
 
-<figure><img src="{{ '/img/intro-course-map.svg' | url }}" alt="Bản đồ khoá học: 3 giai đoạn, 8 buổi."><figcaption>Cách mình nhóm 8 buổi thành 3 giai đoạn (đây là cách nhóm để dễ nhớ, không phải cấu trúc chính thức của khoá).</figcaption></figure>
+<figure><img src="{{ '/img/intro-course-map.svg' | url }}" alt="Bản đồ lộ trình: 3 giai đoạn, 8 buổi."><figcaption>Cách mình nhóm 8 buổi thành 3 giai đoạn (đây là cách nhóm để dễ nhớ, không phải cấu trúc chính thức của khoá).</figcaption></figure>
 
 ## Mỗi buổi học gì
 

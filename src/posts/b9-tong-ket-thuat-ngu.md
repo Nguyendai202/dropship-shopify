@@ -1,11 +1,11 @@
 ---
 title: "Tổng kết và bảng thuật ngữ"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Tổng kết · Thuật ngữ"
 order: 901
+summary: "Toàn bộ thuật ngữ gom theo chủ đề, kèm buổi để tra lại."
 ---
 
-Bảng gom thuật ngữ của cả khoá, nhóm theo chủ đề. Cột cuối cho biết thuật ngữ xuất hiện chính ở buổi nào để quay lại tra.
+Bảng gom thuật ngữ của cả loạt bài, nhóm theo chủ đề. Cột cuối cho biết thuật ngữ xuất hiện chính ở buổi nào để quay lại tra.
 
 ## Store và thanh toán
 

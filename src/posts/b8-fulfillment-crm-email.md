@@ -1,8 +1,8 @@
 ---
 title: "Buổi 8 · Fulfillment, CRM và email marketing"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 8 · Fulfillment, CRM và email marketing"
 order: 801
+summary: "Giao hàng, chăm sóc khách bằng CRM và email marketing."
 ---
 
 Buổi cuối nói về phần "hậu cần" của store: giao hàng, chăm sóc khách và email. Giảng viên nhấn mạnh bán tốt mà khâu này hỏng thì vẫn mất khách, đây là mặt chìm của thành công. Ghi chú viết lại bằng lời của mình, đối chiếu với slide *AES b8*.

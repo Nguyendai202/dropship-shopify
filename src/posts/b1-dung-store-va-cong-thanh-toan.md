@@ -1,19 +1,19 @@
 ---
 title: "Buổi 1 · Dựng store Shopify và chọn cổng thanh toán"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 1 · Dựng store và cổng thanh toán"
 order: 101
+summary: "Dựng store Shopify, chọn cổng thanh toán và hiểu rủi ro bị giữ tiền, chargeback."
 ---
 
 Buổi 1 có 5 video, mục tiêu là dựng xong một store chạy được và hiểu cách nhận tiền từ khách Mỹ. Ghi chú dưới đây viết lại bằng lời của mình, đối chiếu với slide.
 
 <figure><img src="{{ '/img/b1-checklist.svg' | url }}" alt="Tóm tắt Buổi 1: 8 việc dựng store theo thứ tự."><figcaption>Tóm tắt Buổi 1: 8 việc dựng store theo thứ tự.</figcaption></figure>
 
-## Video 1: Lộ trình 8 buổi và mục tiêu khoá học
+## Video 1: Lộ trình 8 buổi và mục tiêu của loạt bài
 
 **Ý chính**
-- Giảng viên chia khoá thành 3 chặng: dựng store và test (mục tiêu 5–10 đơn/ngày), nhân đơn lên gấp 5–10 lần bằng quảng cáo, rồi xây thương hiệu (content, white label, cộng đồng).
-- Phạm vi chỉ là **sản phẩm vật lý**. Hàng digital hay Clickbank không nằm trong khoá.
+- Giảng viên chia nội dung thành 3 chặng: dựng store và test (mục tiêu 5–10 đơn/ngày), nhân đơn lên gấp 5–10 lần bằng quảng cáo, rồi xây thương hiệu (content, white label, cộng đồng).
+- Phạm vi chỉ là **sản phẩm vật lý**. Hàng digital hay Clickbank không nằm trong phạm vi.
 - Sau 8 buổi, người học kỳ vọng tự chạy được Facebook Ads, TikTok Ads và một mảng Google Ads, dựng được funnel và vận hành store.
 - Cảnh báo thẳng: đây khó trở thành "thu nhập tay trái" nếu không dành nhiều thời gian ngoài giờ học.
 
@@ -22,7 +22,7 @@ Buổi 1 có 5 video, mục tiêu là dựng xong một store chạy được v�
 
 **Tự kiểm tra**
 1. Mục tiêu số đơn của giai đoạn đầu là bao nhiêu?
-2. Vì sao khoá này không dạy bán hàng digital?
+2. Vì sao loạt bài này không bàn bán hàng digital?
 
 ## Video 2: Trang bắt buộc, chính sách và theme
 

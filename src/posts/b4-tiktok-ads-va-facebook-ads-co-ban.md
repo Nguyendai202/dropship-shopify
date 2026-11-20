@@ -1,8 +1,8 @@
 ---
 title: "Buổi 4 · TikTok Ads và nền tảng Facebook Ads"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 4 · Chạy quảng cáo TikTok và Facebook"
 order: 401
+summary: "Cấu trúc campaign TikTok, pixel, tài khoản Facebook và các chỉ số cơ bản."
 ---
 
 Buổi 4 dạy hai nền tảng quảng cáo đầu tiên: TikTok (rẻ, để test) rồi Facebook (nguồn doanh số chính). Video 1–2 là TikTok, video 3–5 mở đầu Facebook. Slide dùng là *AES* của buổi 4.

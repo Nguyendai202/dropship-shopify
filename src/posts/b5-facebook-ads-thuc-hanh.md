@@ -1,8 +1,8 @@
 ---
 title: "Buổi 5 · Facebook Ads thực hành: ABO, CBO, pixel và theo dõi nguồn đơn"
-course: "Khoá Làm Chủ Dropshipping Shopify"
 module: "Buổi 5 · Facebook Ads thực hành"
 order: 501
+summary: "Thử bằng ABO, scale bằng CBO, các giai đoạn target, retarget và lookalike."
 ---
 
 Buổi 5 là buổi thực hành trên trình quản lý quảng cáo Facebook: dựng campaign, mở rộng bằng CBO, tạo tệp retarget, nuôi pixel và gắn mã theo dõi nguồn đơn. Buổi này không có slide riêng, nội dung lấy từ video và slide Facebook của buổi 4.
