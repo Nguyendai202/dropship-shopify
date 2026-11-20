@@ -7,6 +7,8 @@ order: 101
 
 Buổi 1 có 5 video, mục tiêu là dựng xong một store chạy được và hiểu cách nhận tiền từ khách Mỹ. Ghi chú dưới đây viết lại bằng lời của mình, đối chiếu với slide.
 
+<figure><img src="{{ '/img/b1-checklist.svg' | url }}" alt="Tóm tắt Buổi 1: 8 việc dựng store theo thứ tự."><figcaption>Tóm tắt Buổi 1: 8 việc dựng store theo thứ tự.</figcaption></figure>
+
 ## Video 1: Lộ trình 8 buổi và mục tiêu khoá học
 
 **Ý chính**
@@ -47,6 +49,8 @@ Buổi 1 có 5 video, mục tiêu là dựng xong một store chạy được v�
 - Để mở bán: thêm thẻ quốc tế hoặc PayPal để kích hoạt store, rồi tắt mật khẩu store.
 - **Shipping rate** cài theo khối lượng để thu thêm tiền khách, theo các mức khoảng 0 / 5 / 10 / 20 đô. Tiền ship này về túi mình, không phải trả cho ai nếu mình tự lo vận chuyển.
 
+<figure><img src="{{ '/img/b1-pricing.svg' | url }}" alt="Cách thu tiền: giá hàng thấp, ship cao hơn, khách đã đầu tư công điền thông tin nên ít bỏ giữa chừng."><figcaption>Cách thu tiền: giá hàng thấp, ship cao hơn, khách đã đầu tư công điền thông tin nên ít bỏ giữa chừng.</figcaption></figure>
+
 **Ví dụ**
 - Sản phẩm bán 29,99 đô, thêm ship 5,95 đô thì thu 35,94 đô thay vì 29,99 đô nếu free ship.
 - Chiến lược "chốt từng bước": giá sản phẩm thấp hơn thị trường khoảng 25–30% (ví dụ 22,99 đô thay vì ~30 đô), giá ship cao hơn. Khách đã điền thông tin giao hàng nên ít bỏ ở bước cuối.
@@ -60,6 +64,8 @@ Buổi 1 có 5 video, mục tiêu là dựng xong một store chạy được v�
 **Ý chính**
 - Hai rủi ro tiền chính: **hold tiền** và **chargeback** (khách đòi lại tiền qua ngân hàng, thường kèm phí 15–20 đô). Chargeback nhiều có thể khiến cổng thanh toán từ chối làm việc với bạn.
 - Quy luật chung: **cổng trả tiền càng nhanh thì càng dễ bị hold/ban**.
+
+<figure><img src="{{ '/img/b1-gateway-risk.svg' | url }}" alt="Tốc độ payout so với rủi ro của từng cổng."><figcaption>Tốc độ payout so với rủi ro của từng cổng.</figcaption></figure>
 
 | Cổng | Điểm chính |
 |---|---|

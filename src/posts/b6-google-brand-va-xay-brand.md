@@ -15,6 +15,8 @@ Buổi 6 có 4 video, chia hai nửa: một chiến dịch Google đơn giản �
 - Có quảng cáo ở vị trí đầu khi khách tìm tên store cũng tăng độ tin cậy cho store.
 - Điều kiện nên làm: đã có traffic từ Facebook hoặc nền tảng khác, và sản phẩm đã chuyển đổi tốt.
 
+<figure><img src="{{ '/img/b6-traffic-leak.svg' | url }}" alt="Hai cách kéo lại 98% khách chưa mua."><figcaption>Hai cách kéo lại 98% khách chưa mua.</figcaption></figure>
+
 **Ví dụ**
 - Slide gọi đây là giải pháp để "tránh lãng phí traffic": mình đã tốn tiền kéo khách về, nên không thể để họ lạc sang nơi khác ngay khâu cuối.
 
@@ -67,6 +69,8 @@ Buổi 6 có 4 video, chia hai nửa: một chiến dịch Google đơn giản �
 **Ý chính**
 - Quảng cáo dropship cạnh tranh ở chỗ ai trả nhiều tiền hơn. Brand có **content độc nhất**: không ai có và không ai chạy lại được, nên mình không phải đua với ai.
 - Bài toán vốn (ví dụ giảng viên đưa ra): nhập 100 cái, giá vốn 15 đô, hết 1.500 đô. Bán hết thu khoảng 6.000 đô. Lần sau nhập 300 cái (4.500 đô), còn 1.500 đô dành cho quảng cáo, nhân sự, influencer. Bán hết thu khoảng 13.000 đô, rồi lặp lại. Tức vòng quay vốn nội tại khá chậm, nên nhiều brand phải gọi vốn.
+
+<figure><img src="{{ '/img/b6-capital-loop.svg' | url }}" alt="Vòng quay vốn theo ví dụ của giảng viên."><figcaption>Vòng quay vốn theo ví dụ của giảng viên.</figcaption></figure>
 - Hàng nhập từ nhà máy chờ hàng tuần đến hàng tháng, nên phải **dự báo doanh số** để chuẩn bị hàng. Ban đầu giảng viên bị khách khiếu nại vì giao chậm.
 - Nhân sự ban đầu làm một mình, khi có khách thì thêm người: CRM (kiểm tra đơn, theo dõi giao hàng, hỗ trợ), marketing (content và quảng cáo).
 - Bài học rút ra: làm brand cần nhiều vốn, có thể phải chịu lỗ để chiều khách khó tính, đừng dựa vào một sản phẩm duy nhất, làm email marketing sớm vì nó ra tiền tốt không kém Facebook, và xây cộng đồng sớm. Hướng dẫn sử dụng cần cụ thể vì nhóm khách lớn tuổi hay khiếu nại.

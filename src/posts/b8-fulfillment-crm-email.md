@@ -15,6 +15,8 @@ Buổi cuối nói về phần "hậu cần" của store: giao hàng, chăm sóc
 - Quy trình fulfill từ Trung Quốc gồm 4 bước: khách đặt đơn, mình gửi thông tin đơn cho nhà cung cấp, nhà cung cấp gửi hàng và đưa mã tracking, mình cập nhật tracking cho khách rồi thanh toán cho họ.
 - Có hai kiểu vận chuyển: đường bưu điện thường và các tuyến chuyên dụng (Yunexpress, Yanwen, CNE, SF Express, 4PX), thường mất 10–20 ngày.
 
+<figure><img src="{{ '/img/b8-fulfill-flows.svg' | url }}" alt="So sánh luồng fulfill từ Trung Quốc và qua kho Mỹ."><figcaption>So sánh luồng fulfill từ Trung Quốc và qua kho Mỹ.</figcaption></figure>
+
 **Ví dụ**
 - Ví dụ upsell: khách mua đèn trang trí, đề xuất thêm một cây đèn hoa giá 59,95 đô. Giá nhập khoảng 12 đô nên biên lợi nhuận rất tốt. Upsell tiếp một món cho "giới tính còn lại" nếu sản phẩm chính là quà tặng.
 
@@ -60,6 +62,8 @@ Buổi cuối nói về phần "hậu cần" của store: giao hàng, chăm sóc
 - **Flow** là chuỗi email tự động theo điều kiện (khách đăng ký thì nhận welcome flow, bỏ giỏ hàng thì nhận flow nhắc). **Campaign** là email gửi tay cho cả list.
 - Gói miễn phí giới hạn khoảng 250 profile, gói trả phí khoảng 20 đô/tháng cho 500.
 - Có thể đăng ký nhận email của đối thủ để học cách họ làm.
+
+<figure><img src="{{ '/img/b8-email-structure.svg' | url }}" alt="Cấu trúc list, segment, flow và campaign."><figcaption>Cấu trúc list, segment, flow và campaign.</figcaption></figure>
 
 **Ví dụ (từ slide)**: chuỗi campaign Halloween gồm 4 email: giới thiệu trước sự kiện (22/10), thông báo bắt đầu sale (24/10), sale sắp kết thúc (30/10) và "cơ hội cuối" (31/10). Mỗi email có một mục tiêu riêng, nội dung ngắn, đi kèm giảm giá.
 

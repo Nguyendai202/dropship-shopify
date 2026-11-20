@@ -8,3 +8,7 @@ code, pre { font-family: ui-monospace, Menlo, monospace; font-size: .9em; }
 pre { overflow-x: auto; padding: 12px; background: rgba(127,127,127,.12); border-radius: 6px; }
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid rgba(127,127,127,.4); padding: 6px 10px; text-align: left; }
+
+figure { margin: 1.5rem 0; }
+figure img, article img { max-width: 100%; height: auto; border-radius: 10px; border: 1px solid rgba(128,128,128,.25); background: #fff; display: block; }
+figcaption { font-size: .85rem; opacity: .75; margin-top: .4rem; }

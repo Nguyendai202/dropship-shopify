@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/style.css");
+  eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addCollection("posts", (api) =>
     api.getFilteredByGlob("src/posts/*.md").sort((a, b) => a.data.order - b.data.order)
   );
